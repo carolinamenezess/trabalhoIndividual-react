@@ -1,0 +1,21 @@
+
+header{
+background-color: green;
+color: black;
+text-align: center;
+padding: 18px;
+width: 100%;
+position: fixed;
+}  
+
+.header{
+ padding-right: 20px;
+}
+
+h2{
+padding-left: 10px;
+}
+  
+title{ 
+text-decoration: underline;
+}
